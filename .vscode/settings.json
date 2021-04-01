@@ -1,5 +1,16 @@
 {
     "python.linting.pylintPath": "C:\\Users\\SENTHIL ADITHYA\\AppData\\Roaming\\Python\\Python39\\Scripts\\pylint.exe",
     "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true
+    "python.linting.enabled": true,
+    "python.pythonPath": "C:\\Users\\SENTHIL ADITHYA\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "database.connections": [
+        {
+            "type": "mysql",
+            "name": "Project@localhost (MySql)",
+            "host": "localhost:3306",
+            "username": "Project",
+            "database": "first",
+            "password": "123456"
+        }
+    ]
 }
